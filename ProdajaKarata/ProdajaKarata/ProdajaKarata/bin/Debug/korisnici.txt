@@ -1,0 +1,8 @@
+3;2103949735012;Milan;Petrovic;2005
+2;1003963741123;Rista;Ristic;48500
+1;2103994735222;Ivan;Simic;Elektronski fakultet
+1;0103992735055;Nina;Vasic;Pravni fakultet
+2;2108957741123;Tasa;Tasic;50500
+1;1412996321456;Gaga;Mitic;Med fak
+3;7412336547899;Nesa;Nesic;2010
+1;1112223334445;Jovana;Ristic;Gradjevinski
